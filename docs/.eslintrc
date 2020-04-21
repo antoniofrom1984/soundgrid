@@ -1,0 +1,4 @@
+  "extends": "airbnb",
+  "extends": "p5js",
+  "extends": "p5js/dom",
+  "extends": "p5js/sound"
